@@ -4,7 +4,7 @@
 - 💬 Tecnologia,audiovisual
 - 😄 Pronouns: ela/dela
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaPazze&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaPazze&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaPazze&layout=compact=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
